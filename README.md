@@ -1,1 +1,1 @@
-<a href='https://vercel.com/danielcrha/tesla-landing-page-74jc'>Live Demo</a>
+<a href='https://tesla-landing-page-74jc.vercel.app/'>Live Demo</a>
