@@ -1,9 +1,14 @@
+import Header from "./components/Header";
 import "./App.css";
 
 function App() {
   return (
     <div className='App'>
-      <h1>test</h1>
+      <Header />
+      {/* items => snapping */}
+      {/* items => snapping */}
+      {/* items => snapping */}
+      {/* items => snapping */}
     </div>
   );
 }
