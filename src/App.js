@@ -14,7 +14,7 @@ function App() {
   return (
     <div className='App'>
       <Header />
-      <div className='app_itemsContainer'>
+      <div className='app__itemsContainer'>
         <Item
           title='Lowest Cost Solar Panels in America'
           desc='Money-back guarantee'
