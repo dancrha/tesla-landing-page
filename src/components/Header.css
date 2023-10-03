@@ -13,17 +13,18 @@
 .header__logo {
   height: 24px;
   width: 100px;
-  margin-top: 7px;
 }
 
 .header__center {
   flex: 1;
   display: flex;
   justify-content: center;
+  padding-left: 100px;
 }
 
 .header__center p {
   margin: 10px;
+  margin-left: 20px;
   text-transform: uppercase;
 }
 
@@ -35,4 +36,5 @@
 
 .header__right p {
   margin: 10px;
+  padding-right: 15px;
 }
