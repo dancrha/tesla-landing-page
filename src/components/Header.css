@@ -19,7 +19,7 @@
   flex: 1;
   display: flex;
   justify-content: center;
-  padding-left: 100px;
+  padding-left: 145px;
 }
 
 .header__center p {
@@ -36,5 +36,13 @@
 
 .header__right p {
   margin: 10px;
-  padding-right: 15px;
+  padding-right: 30px;
+}
+
+@media (max-width: 768px) {
+  /* Hide header text elements */
+  .header__center p,
+  .header__right p {
+    display: none;
+  }
 }
